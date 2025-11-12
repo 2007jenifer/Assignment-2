@@ -30,19 +30,3 @@ public class StudentGrade {
         sc.close();
     }
 }
-Output : 
-Case 1: Valid Input
-Copy code
-
-Enter student marks: 85
-Valid marks: 85
-Case 2: Marks Greater Than 100
-Copy code
-
-Enter student marks: 120
-Error: Marks cannot exceed 100!
-Case 3: Marks Less Than 0
-Copy code
-
-Enter student marks: -10
-Error: Marks cannot be negative!

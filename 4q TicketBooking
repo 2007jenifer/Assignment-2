@@ -23,7 +23,4 @@ public class BookingTest {
     }
 }
 
- Output (example):
-
-Customer 1 booked the ticket successfully!
-Sorry Customer 2, ticket already booked!
+ 

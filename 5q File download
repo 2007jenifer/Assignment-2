@@ -33,10 +33,4 @@ public class FileDownload {
     }
 }
 
-Output:
 
-Part 1 downloading...
-Part 1 completed.
-Part 2 downloading...
-Part 2 completed.
-File download completed.
